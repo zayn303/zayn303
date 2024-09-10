@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Hi 👋, I'm Andrii</h2>
+    <h2>Hi there👋, I'm Andrii</h2>
     <p align="center">
         <img src="cat.webp" width="50"/>
     </p>
