@@ -1,5 +1,5 @@
 <div align="center";">
-    <h3>Hi 👋, I'm Andrii </h3>
+    <h2>Hi 👋, I'm Andrii </h2>
     <p align="center">
          <img src="cat.webp" width="50"/>
     </p>
