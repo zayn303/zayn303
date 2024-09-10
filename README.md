@@ -1,3 +1,4 @@
+![Mountains](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0dDZrN3lndGE5aTBmZzU5aG9teDVoMDE1Nm1jYnk3cG9hamdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOC2nDgWcc0us/giphy.webp)
 <div align="center">
     <h2>Hi 👋, I'm Andrii</h2>
     <p align="center">
