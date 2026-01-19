@@ -7,7 +7,7 @@
     <p align="center">
         <img src="cat.webp" width="50"/>
     </p>
-    <p><span style="font-size: 20px;">:computer: Junior Data Engineer, living in Košice SK</span></p>
+    <p><span style="font-size: 20px;">:computer: Junior AI Engineer, living in Košice SK</span></p>
     <p><span style="font-size: 20px;">:hammer_and_wrench: I worked with: <code>Python</code> <code>SQL</code> <code>PostgreSQL</code> <code>C</code> <code>Torch</code> <code>R</code> <code>Bash</code> <code>Docker</code> ...</span></p>
     <p><span style="font-size: 20px;">⚡ I enjoy: reading, playing videogames, lifting weights and hiking :)</span></p>
     <p><span style="font-size: 20px;">:student: Graduated with a Bachelor's degree in Computer Networks</span></p>
